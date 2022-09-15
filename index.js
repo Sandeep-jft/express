@@ -1,4 +1,5 @@
-const colors = require('colors');
+const insert = require('./insert');
+const read = require('./readData');
 
-console.log("Hello express".red);
-console.log("Hello express".green);
+insert();
+read();
