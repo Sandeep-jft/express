@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sandeep-jft/express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Sandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeep-jft/express/issues"
+  },
+  "homepage": "https://github.com/Sandeep-jft/express#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
