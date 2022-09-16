@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon api.js"
+    "dev": "nodemon api.js",
+    "index": "nodemon index.js",
+    "main": "nodemon main.js",
+    "upload":"nodemon upload.js"
   },
   "repository": {
     "type": "git",
@@ -27,6 +30,8 @@
     "ejs": "^3.1.8",
     "express": "^4.18.1",
     "mongodb": "^4.9.1",
+    "mongoose": "^6.6.1",
+    "multer": "^1.4.5-lts.1",
     "nodemon": "^2.0.19"
   }
 }
