@@ -8,7 +8,8 @@
     "dev": "nodemon api.js",
     "index": "nodemon index.js",
     "main": "nodemon main.js",
-    "upload":"nodemon upload.js"
+    "upload":"nodemon upload.js",
+    "event":"nodemon eventAction.js"
   },
   "repository": {
     "type": "git",
